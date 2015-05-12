@@ -15,6 +15,8 @@ class WelcomeController < ApplicationController
 
 end 
 
+def contact
+	
 
 
 
